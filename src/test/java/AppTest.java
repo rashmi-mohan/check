@@ -9,7 +9,7 @@ public class AppTest {
 
     @Test
     void testAdd() {
-        assertEquals(25, c.add(20, 5));
+        assertEquals(2, c.add(20, 5));
     }
 
     @Test
